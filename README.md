@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhiram MJ A.K.A @theRanchkeeper 
+- 👋 Hi, I’m Abhiram M J A.K.A @theRanchkeeper 
 - 👀 I’m interested in Video game development and programming
 
 
