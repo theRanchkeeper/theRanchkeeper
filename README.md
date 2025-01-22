@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abhiram M J
 - 👀 I’m interested in Video game development and programming
+- Big time linux user and a FOSS enthusiast
 
 
 <!---
